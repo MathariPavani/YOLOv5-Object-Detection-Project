@@ -1,4 +1,4 @@
-**Project: Paper Selection and Proposal - YOLO: Unified, Real-Time Object Detection**
+**Project: Paper Selection and Proposal - YOLO: Unified, Real-Time Object Detection **
 
 1. **Team Members**
 
